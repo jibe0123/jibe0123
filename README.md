@@ -1,5 +1,9 @@
 ### ⚡ Fun fact:  a year on Mercury is just 88 days long.
 
+![Me when i'm trying new Frameworks](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
+
+
+
 <!--
 **jibe0123/jibe0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
