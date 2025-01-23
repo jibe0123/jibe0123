@@ -3,14 +3,6 @@
 ## About Me
 I am a tech enthusiast and a dedicated Full Stack Developer specializing in Go (Golang), my favorite programming language due to its efficiency in backend development. I am skilled in Python, PHP, React, TypeScript, SQL and actively explore cutting-edge technologies. My work incorporates Domain-Driven Design (DDD) and Command Query Responsibility Segregation (CQRS).
 
-### Current Project: 🚀 Spark Sentry ⚡ 🏡
-I am part of Spark Sentry, where we are pioneering in building energy management. Our goal is to optimize energy use, reduce costs, and increase comfort, contributing to environmental sustainability.
-
-#### What We Do at Spark Sentry 💡
-- **Ingester**: Real-time energy data collection integrated with Building Management Systems (BMS).
-- **Core API**: Manage and analyze energy data to power our platforms.
-- **Dashboard**: Visualize and optimize energy performance.
-
 ### ⚡ Fun Fact
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
 
