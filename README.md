@@ -1,37 +1,14 @@
-# Bonjour 👋
+# Hey, I'm Jibe ⚡
 
-## About Me
-I am a tech enthusiast and a dedicated Full Stack Developer specializing in Go (Golang), my favorite programming language due to its efficiency in backend development. I am skilled in Python, PHP, React, TypeScript, SQL and actively explore cutting-edge technologies. My work incorporates Domain-Driven Design (DDD) and Command Query Responsibility Segregation (CQRS).
+**Tech Lead & Indie Builder** — I design fast backends in **Go**, wire smart agents with **Python + LLMs**, and ship tools that don’t sleep.
 
-### ⚡ Fun Fact
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
+🛠️ Stack: `Go` · `Python` · `PostgreSQL` · `Docker` · `TypeScript` · `LLM` · `Redis`
 
-Did you know? The shortest reign of any monarch was that of Louis XIX of France, who abdicated after just 20 minutes on the throne!
+🚀 Focus: event-driven systems, clean APIs, AI infra, and launching side-projects like products.
 
-
-## Technologies and Tools
 ```go
-type Developer struct {
-	Pronouns    string
-	Code        []string
-	Tools       []string
-	Architecture []string
+type Jibe struct {
+	Code   []string{"Go", "Python", "TS"}
+	Build  []string{"microservices", "LLM agents", "internal platforms"}
+	Vibe   string = "move fast, stay sharp"
 }
-
-var jibe = Developer{
-	Pronouns:    "he/him",
-	Code:        []string{"Go", "Python", "TypeScript", "PHP"},
-	Tools:       []string{"React", "Redux", "Symfony", "Gin, "Docker"},
-	Architecture: []string{"microservices", "event-driven", "domain driven design", "large language model"},
-}
-```
-
-### Let's Connect!
-I love connecting with different people. If you want to say hi, I'll be happy to meet you more! Feel free to reach out through any of the platforms below:
-
-[![Linkedin: jibe0123](https://img.shields.io/badge/-AgostinJeanbaptiste-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/jbagostin/)](https://fr.linkedin.com/in/jbagostin/)
-[![GitHub jibe0123](https://img.shields.io/github/followers/jibe0123?label=follow&style=social)](https://github.com/jibe0123)
-
----
-
-![jibe0123's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibe0123&show_icons=true&theme=radical)
