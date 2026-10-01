@@ -88,7 +88,7 @@ func main() {
 
 <img src="https://streak-stats.demolab.com?user=jibe0123&hide_border=true&background=2B213A&ring=FF2D95&fire=FFE600&currentStreakNum=00F0FF&sideNums=00F0FF&currentStreakLabel=FF2D95&sideLabels=FF2D95&dates=A277FF" height="165" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibe0123&bg_color=2b213a&color=00f0ff&line=ff2d95&point=ffe600&area=true&area_color=ff2d95&hide_border=true" width="92%" alt="activity graph"/>
+<img src="https://ghchart.rshah.org/ff2d95/jibe0123" width="92%" alt="contribution graph"/>
 
 </div>
 
