@@ -6,14 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF2D95&center=true&vCenter=true&width=700&height=60&lines=FAST+BACKENDS+IN+GO;LLM+AGENTS+WIRED+WITH+PYTHON;EVENT-DRIVEN+SYSTEMS;INSERT+COIN+TO+SHIP+%F0%9F%95%B9%EF%B8%8F" alt="typing"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=jibe0123&style=for-the-badge&color=ff2d95&label=VISITORS" alt="visitors"/>
-
 </div>
 
 ## █▓▒░ 01 · BOOT.SYS ░▒▓█
 
 <table>
-<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — zsh — 80×24</code></b></td></tr>
+<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — zsh — 80×24</code></b><img width="2000" height="0" alt=""></td></tr>
 <tr><td>
 
 ```console
@@ -35,7 +33,7 @@ READY. Welcome to JIBE OS — System 198X 🖥️
 ## █▓▒░ 02 · WHOAMI.EXE ░▒▓█
 
 <table>
-<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — vim me.go</code></b></td></tr>
+<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — vim me.go</code></b><img width="2000" height="0" alt=""></td></tr>
 <tr><td>
 
 ```go
@@ -44,6 +42,7 @@ package main
 type Jibe struct {
 	Role     string
 	Location string
+	Host     string
 	Code     []string
 	Build    []string
 	Vibe     string
@@ -53,6 +52,7 @@ func main() {
 	me := Jibe{
 		Role:     "Backend dev & passionate builder",
 		Location: "Paris, France 🗼",
+		Host:     "localhost — no place like 127.0.0.1 🏠",
 		Code:     []string{"Go", "Python", "TypeScript"},
 		Build:    []string{"microservices", "LLM agents", "internal platforms"},
 		Vibe:     "move fast, stay sharp",
