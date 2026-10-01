@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,35:a277ff,70:00f0ff,100:ffe600&height=220&section=header&text=JIB%C3%89&fontColor=ffffff&fontSize=90&fontAlignY=35&desc=BACKEND.SYS%20%E2%98%85%20PARIS%20%E2%98%85%20LOCALHOST&descColor=ffe600&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,35:a277ff,70:00f0ff,100:ffe600&height=220&section=header&text=JIB%C3%89&fontColor=ffffff&fontSize=90&fontAlignY=35&desc=BACKEND%20%E2%98%85%20DATA%20%E2%98%85%20AI%20%E2%98%85%20PARIS&descColor=ffe600&descAlignY=58&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/jibe0123">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF2D95&center=true&vCenter=true&width=700&height=60&lines=FAST+BACKENDS+IN+GO;LLM+AGENTS+WIRED+WITH+PYTHON;EVENT-DRIVEN+SYSTEMS;INSERT+COIN+TO+SHIP+%F0%9F%95%B9%EF%B8%8F" alt="typing"/>
