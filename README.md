@@ -1,14 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Jib%C3%A9&fontColor=c0caf5&fontSize=80&fontAlignY=35&desc=Backend%20dev%20%E2%80%A2%20Paris%20%E2%80%A2%20localhost&descColor=7aa2f7&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,35:a277ff,70:00f0ff,100:ffe600&height=220&section=header&text=JIB%C3%89&fontColor=ffffff&fontSize=90&fontAlignY=35&desc=BACKEND.SYS%20%E2%98%85%20PARIS%20%E2%98%85%20LOCALHOST&descColor=ffe600&descAlignY=58&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/jibe0123">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fast+backends+in+Go+%E2%9A%A1;LLM+agents+wired+with+Python+%F0%9F%A4%96;Event-driven+systems+%26+clean+APIs;Shipping+side-projects+like+products+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF2D95&center=true&vCenter=true&width=700&height=60&lines=FAST+BACKENDS+IN+GO;LLM+AGENTS+WIRED+WITH+PYTHON;EVENT-DRIVEN+SYSTEMS;INSERT+COIN+TO+SHIP+%F0%9F%95%B9%EF%B8%8F" alt="typing"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=jibe0123&style=for-the-badge&color=ff2d95&label=VISITORS" alt="visitors"/>
 
 </div>
 
-## `$ whoami`
+## █▓▒░ 01 · BOOT.SYS ░▒▓█
+
+<table>
+<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — zsh — 80×24</code></b></td></tr>
+<tr><td>
+
+```console
+jibe@localhost ~ % sudo ./boot_jibe.sys
+
+[ OK ] CPU ........ GOPHER @ 3.33 GHz
+[ OK ] RAM ........ 640K (ought to be enough for anybody)
+[ OK ] GPU ........ NEON RASTERIZER — pink/cyan only
+[ OK ] DISK ....... /dev/coffee mounted ☕
+[ OK ] NETWORK .... event bus online
+[WARN] SLEEP.SYS .. not found — skipping
+
+READY. Welcome to JIBE OS — System 198X 🖥️
+```
+
+</td></tr>
+</table>
+
+## █▓▒░ 02 · WHOAMI.EXE ░▒▓█
+
+<table>
+<tr><td>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <b><code>jibe@localhost — vim me.go</code></b></td></tr>
+<tr><td>
 
 ```go
 package main
@@ -33,45 +61,68 @@ func main() {
 }
 ```
 
-> *« The only real mistake is one from which we learn nothing. »*
+</td></tr>
+</table>
 
-## `$ stack --list`
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Agents-1a1b27?style=for-the-badge&logo=anthropic&logoColor=7aa2f7)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
-
-## `$ git stats`
+## █▓▒░ 03 · LOADOUT.CFG ░▒▓█
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jibe0123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibe0123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=jibe0123&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibe0123&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="92%" alt="Activity graph"/>
+![Go](https://img.shields.io/badge/GO-00F0FF?style=for-the-badge&logo=go&logoColor=0D0221)
+![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-FFE600?style=for-the-badge&logo=typescript&logoColor=0D0221)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-A277FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-00F0FF?style=for-the-badge&logo=redis&logoColor=0D0221)
+![Docker](https://img.shields.io/badge/DOCKER-FF2D95?style=for-the-badge&logo=docker&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_AGENTS-FFE600?style=for-the-badge&logo=anthropic&logoColor=0D0221)
+![Terraform](https://img.shields.io/badge/TERRAFORM-A277FF?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
-## `$ focus --now`
+## █▓▒░ 04 · HIGH-SCORES ░▒▓█
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jibe0123&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibe0123&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="165" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=jibe0123&hide_border=true&background=2B213A&ring=FF2D95&fire=FFE600&currentStreakNum=00F0FF&sideNums=00F0FF&currentStreakLabel=FF2D95&sideLabels=FF2D95&dates=A277FF" height="165" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibe0123&bg_color=2b213a&color=00f0ff&line=ff2d95&point=ffe600&area=true&area_color=ff2d95&hide_border=true" width="92%" alt="activity graph"/>
+
+</div>
+
+## █▓▒░ 05 · SNAKE.ROM ░▒▓█
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jibe0123/jibe0123/output/github-snake.svg" width="92%" alt="snake eating my contributions"/>
+
+</div>
+
+## █▓▒░ 06 · SIDE-QUESTS ░▒▓█
 
 - ⚡ **Event-driven systems** — queues, streams, things that scale without drama
 - 🧠 **AI infra** — agents, tools & pipelines around LLMs
 - 🧩 **Clean APIs** — hexagonal architecture, DDD when it earns its keep
 - 🚀 **Side-projects** — launched like real products, not weekend hacks
 
+## █▓▒░ GAME OVER ░▒▓█
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+<pre>
+   ┌─────────────┐
+   │  ┌───────┐  │
+   │  │  ^ ^  │  │     « The only real mistake is one
+   │  │   ‿   │  │       from which we learn nothing. »
+   │  └───────┘  │
+   │   ▄▄▄▄▄▄▄   │     ╔══════════════════════════╗
+   └─────────────┘     ║   GAME OVER — CONTINUE?  ║
+      HAPPY MAC        ║    ▸ INSERT COIN  🪙     ║
+                       ╚══════════════════════════╝
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe600,30:00f0ff,65:a277ff,100:ff2d95&height=120&section=footer" width="100%"/>
 
 </div>
